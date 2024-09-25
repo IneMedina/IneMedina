@@ -8,7 +8,7 @@ I'm an 18-year-old **Data Science** student currently in my first year of study.
 - 🌍 **Native Language**: Spanish  
 - 🌐 **English Level**: B1  
 - 💻 **Programming Skills**: Python 🐍 and R 📊  
-- 🎯 **Goals**: Keep learning, stay curious, and grow both personally and professionally.
+
 
 ---
 
