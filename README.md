@@ -5,7 +5,7 @@
 I'm an 18-year-old **Data Science** student currently in my first year of study. 🚀 I'm passionate about data, curious about technology, and eager to explore the endless possibilities in this exciting field.
 
 ### 🌟 About Me:
-- 🌍 **Native Language**: Spanish  
+- 🌍 **Native Language**: Spanish 
 - 🌐 **English Level**: B1  
 - 💻 **Programming Skills**: Python 🐍 and R 📊  
 
@@ -13,9 +13,9 @@ I'm an 18-year-old **Data Science** student currently in my first year of study.
 ---
 
 ### 📊 What I’m Working On:
-- Diving deep into data analytics and visualization.
-- Building projects in Python and R to expand my coding skills.
-- Learning more about machine learning and AI. 🤖
+- Diving deep into data analytics and visualization📈.
+- Building projects in Python and R to expand my coding skills💻.
+- Learning more about machine learning and AI🤖.
 
 ---
 
