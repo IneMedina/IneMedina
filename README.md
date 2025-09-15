@@ -2,7 +2,7 @@
 
 
 
-I'm an 18-year-old **Data Science** student currently in my first year of study. 🚀 I'm passionate about data, curious about technology, and eager to explore the endless possibilities in this exciting field.
+I'm an 19-year-old **Data Science** student currently in my first year of study. 🚀 I'm passionate about data, curious about technology, and eager to explore the endless possibilities in this exciting field.
 
 ### 🌟 About Me:
 - 🌍 **Native Language**: Spanish  
